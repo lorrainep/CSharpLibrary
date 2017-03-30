@@ -1,0 +1,5 @@
+C:\Users\Lorraine Papczynski\Desktop\CSharpLibrary-master\CSharpLibrary-master\0.16_Lists\bin\Debug\0.16_Lists.exe.config
+C:\Users\Lorraine Papczynski\Desktop\CSharpLibrary-master\CSharpLibrary-master\0.16_Lists\bin\Debug\0.16_Lists.exe
+C:\Users\Lorraine Papczynski\Desktop\CSharpLibrary-master\CSharpLibrary-master\0.16_Lists\bin\Debug\0.16_Lists.pdb
+C:\Users\Lorraine Papczynski\Desktop\CSharpLibrary-master\CSharpLibrary-master\0.16_Lists\obj\Debug\0.16_Lists.exe
+C:\Users\Lorraine Papczynski\Desktop\CSharpLibrary-master\CSharpLibrary-master\0.16_Lists\obj\Debug\0.16_Lists.pdb
